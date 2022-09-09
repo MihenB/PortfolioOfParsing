@@ -1,0 +1,5 @@
+protocol = 'put'
+login = 'your'
+password = 'data'
+ip = 'there'
+port = '8000'
