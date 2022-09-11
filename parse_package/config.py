@@ -66,7 +66,7 @@ headers = {
 json_data = {
 }
 
-url = 'https://2ip.ru'
+url = 'your_url'
 
 if __name__ == '__main__':
     print()

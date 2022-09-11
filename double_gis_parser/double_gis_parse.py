@@ -1,4 +1,4 @@
-from parse_package.multypurpose_parser import ScrapSession
+from parse_package.multipurpose_parser import ScrapSession
 from double_gis_parser.double_gis_config import url, cookies, headers, params
 
 
