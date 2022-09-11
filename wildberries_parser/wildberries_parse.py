@@ -1,4 +1,4 @@
-from parse_package.multypurpose_parser import ScrapSession
+from parse_package.multipurpose_parser import ScrapSession
 from wildberries_parser.config4 import url, headers, params
 
 
